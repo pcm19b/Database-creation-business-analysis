@@ -1,6 +1,6 @@
-# Database-creation-business-analysis
+# Project: Database Creation and Business Analysis
 A project focused on database creation and querying for business purposes using SQL.
-
+# Project Overview
 This is a project completed for my Database Management class, in which I was presented with the data of a hypothetical business and was tasked with building a database for them. The ultimate goal was to query the database in order to provide relevant information used to answer important questions posed by the business.
 
 - ERD showing entities and relationships was created in Lucidchart.
