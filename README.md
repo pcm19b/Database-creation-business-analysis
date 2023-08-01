@@ -1,6 +1,6 @@
 # Project: Database Creation and Business Analysis
 A project focused on database creation and querying for business purposes using SQL.
-# Project Overview
+## Project Overview
 This is a project completed for my Database Management class, in which I was presented with the data of a hypothetical business and was tasked with building a database for them. The ultimate goal was to query the database in order to provide relevant information used to answer important questions posed by the business.
 
 - ERD showing entities and relationships was created in Lucidchart.
@@ -8,10 +8,10 @@ This is a project completed for my Database Management class, in which I was pre
 - Using SQL, data entries were then imported into the database.
 - Using SQL, three simple form queries and two complex queries were written to address business questions.
 
-## Relational ERD to Form Database
+### Relational ERD to Form Database
 ![](Images/Screen%20Shot%202023-07-27%20at%2012.04.37%20AM.png)
 
-## SQL Queries
+### SQL Queries
 Normal
 1. What are the names of the truck drivers who live in Collegetown, Tallahassee, FL?
 - Select DriverFName, DriveLName from Driver where ZipCode = 32304
